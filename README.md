@@ -1,9 +1,9 @@
 # Process Call vs Process Route in Boomi
 
-## Process Call Shape Overview
+### Process Call Shape Overview
 
-## When to use Process Call Shape
+### When to use Process Call Shape
 
-## Process Route Shape Overview
+### Process Route Shape Overview
 
-## When to use Process Route
+### When to use Process Route
