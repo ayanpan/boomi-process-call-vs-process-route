@@ -16,7 +16,9 @@ The Process Call shape enables you to execute another process from within a proc
 The Process Route shape allows you to select an execution path dynamically at run time based on some value, such as a document property, data profile, extension value, or trading partner.
 
 :key: The Process Route shape needs to be separately deployed for the Main-Process to work.
+
 :key: If we make a change in the Main-Process and/or Sub-Process, without making any change in the Process Route component, then we only need to deploy the Main-Process and/or SubProcess, without re-deploying the Process Route component.
+
 :key: If we make any change in the Process Route component, then we need to re-deploy the Process Route component.
 
 ### When to use Process Route
