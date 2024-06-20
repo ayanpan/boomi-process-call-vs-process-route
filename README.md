@@ -10,7 +10,7 @@ The Process Call shape enables you to execute another process from within a proc
 
 :zap: The Sub-Process is rarely updated.
 
-:zap: The Sub-Process is created becuase the Main-Process had too many shapes, for which the Sub-Process helped in segregating some steps to declutter the Main-Process.
+:zap: The Sub-Process is created becuase the Main-Process had too many shapes, for which the Sub-Process helped declutter the Main-Process by segregating some shapes.
 
 ### Process Route Shape Overview
 The Process Route shape allows you to select an execution path dynamically at run time based on some value, such as a document property, data profile, extension value, or trading partner.
